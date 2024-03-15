@@ -17,6 +17,7 @@
 		3F3A27212BA4DFA10051C218 /* CoreDataAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3A27202BA4DFA10051C218 /* CoreDataAppTests.swift */; };
 		3F3A272B2BA4DFA10051C218 /* CoreDataAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3A272A2BA4DFA10051C218 /* CoreDataAppUITests.swift */; };
 		3F3A272D2BA4DFA10051C218 /* CoreDataAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3A272C2BA4DFA10051C218 /* CoreDataAppUITestsLaunchTests.swift */; };
+		3F3A273A2BA4E14C0051C218 /* electric-guitar-1458806_640.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F3A27392BA4E14C0051C218 /* electric-guitar-1458806_640.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3F3A27262BA4DFA10051C218 /* CoreDataAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreDataAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F3A272A2BA4DFA10051C218 /* CoreDataAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataAppUITests.swift; sourceTree = "<group>"; };
 		3F3A272C2BA4DFA10051C218 /* CoreDataAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F3A27392BA4E14C0051C218 /* electric-guitar-1458806_640.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "electric-guitar-1458806_640.jpg"; path = "../../../../Downloads/electric-guitar-1458806_640.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3F3A270A2BA4DF9F0051C218 /* ViewController.swift */,
 				3F3A270C2BA4DF9F0051C218 /* Main.storyboard */,
 				3F3A27122BA4DFA10051C218 /* Assets.xcassets */,
+				3F3A27392BA4E14C0051C218 /* electric-guitar-1458806_640.jpg */,
 				3F3A27142BA4DFA10051C218 /* LaunchScreen.storyboard */,
 				3F3A27172BA4DFA10051C218 /* Info.plist */,
 				3F3A270F2BA4DF9F0051C218 /* CoreDataApp.xcdatamodeld */,
@@ -234,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F3A273A2BA4E14C0051C218 /* electric-guitar-1458806_640.jpg in Resources */,
 				3F3A27132BA4DFA10051C218 /* Assets.xcassets in Resources */,
 				3F3A27162BA4DFA10051C218 /* Base in Resources */,
 				3F3A270E2BA4DF9F0051C218 /* Base in Resources */,
